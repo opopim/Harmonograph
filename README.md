@@ -1,1 +1,1 @@
-# Harmonograph
+# Membuat Harmonograph dengan Python
